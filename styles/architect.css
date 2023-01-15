@@ -225,6 +225,9 @@ nav > ul {
   border-radius: 8px;
   padding: 25px 0;
 }
+.footer .description {
+    padding-bottom: 0;
+}
 
 /* Media Querie Styles */
 @media only screen and (max-width: 576px) {
